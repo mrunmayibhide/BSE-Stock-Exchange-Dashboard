@@ -49,6 +49,8 @@ _Visualisation_
 First Visualisation
 In the first visualization we have used the traditional Volume Candlestick chart to show the price movement of a stock over a time period and to understand the daily volume changes according to the price movement. 
 
+![image](https://github.com/user-attachments/assets/7a6d2d63-eb27-4540-a8de-0e5ff587807b)
+
 Choice of Chart Type
 
 The attributes open, close, high, low and volume of stock all fall under the Ratio type of measurement and the data we are dealing with is a Time Series dataset. 
@@ -66,7 +68,7 @@ We have given the title in bold highlighting the stock for which the data is dis
 Second Visualisation
 In the second visualization, we are trying to analyse the risk associated with the top 30 BSE stocks using Scatter Plot. We have used only the 2022 stock data since it is the most recent data which can provide a better estimate of the Risks.
 
-
+![image](https://github.com/user-attachments/assets/472b6229-4325-41d5-8cef-5ca7c02d4a98)
 
 Choice of Chart Type
 
@@ -81,6 +83,7 @@ Since there are only 30 data points the scatter plot is readable and allows user
 Third Visualisation
 In the third visualization we have used the daily adjusted closing price values to calculate the daily percentage change on the adjusted closing prices for every stock and visualized the same using Histogram, so that the user can understand how stable the stock is by looking at the distribution. The user can select the stock for which he wants to view the distribution from the list of stocks provided in the dropdown.
 
+![image](https://github.com/user-attachments/assets/e0decf40-d4bf-45cc-9df2-eb030a4573cc)
 
 Choice of Chart Type
 
