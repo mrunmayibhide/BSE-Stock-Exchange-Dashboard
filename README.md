@@ -31,7 +31,7 @@ Adjusted Closing Price of the stock
 
 An additional column of the Stock Name was appended and the individual stock data was stored in separate csv files. We loaded this data to MySQL workbench and combined the csv files of all the stocks for easy maintenance, handling and real time data updation.
 
-
+![image](https://github.com/user-attachments/assets/dc349656-28ac-4489-8b70-f41242e40fbe)
 
 _Data Exploration_
 
